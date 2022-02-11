@@ -72,22 +72,23 @@ experiences:
       time: 2019 - Present
       company: Disney Streamings, New York
       details: |
-        - Manage build infrastructure including GitHub, Jenkins, Artifactory, SonarQube and Mergify.
+        - Manage build infrastructures: GitHub, Jenkins, Artifactory, SonarQube, and Mergify.
         - Provide pre-build Jenkins pipeline for users to build, test, scan, and deploy code with just a few lines of code.
     - role: Site Reliability Engineer
-      time: 2016 - 2019
+      time: 2017 - 2019
       company: Bamtech, New York
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Manage observability infrastructure: Sensuu, ELK Log stack, and Graphite/Grafana.
+        - Manage AWS cloud infrastructure: DNS, Bastions.
+    - role: Software Engineer
+      time: 2016 - 2017
+      company: Bamtech, New York
+      details: |
+        - Manage AWS network infrastructure: VPCs, Security Groups, NAT server, and peerings.
+        - Manage AWS access and permissions: users, roles, bots, access policies, etc.
+    - role: DevOps Engineer
+      time: 2014 - 2016
+      company: MLB Advance Media, New York
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
