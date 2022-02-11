@@ -16,7 +16,7 @@ sidebar:
     phone: 347-804-7485
     citizenship:
     website:
-    linkedin: jasooonko
+    linkedin: jason-chia-hung-ko-726332a
     xing:
     github:
     telegram: # add your nickname without '@' sign
@@ -90,13 +90,22 @@ experiences:
       time: 2014 - 2016
       company: MLB Advance Media, New York
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Develop tools for users to create resources in AWS.
+        - Develop shared puppet modules for configuration management.
+    - role: IT Manager
+      time: 2013-2014
+      company: Amerasia Bank, New York
+      details: |
+        - Maintain bank's core computing system and networking.
+        - Write scripts to produce daily reports from the core database.
+        - Perform disaster recovery planning and testing.
+    - role: Developers
+      time: 2006 - 2013
+      company: Neulion, New yorick
+      details: |
+        - Develop EPG automation tool to read data from different source, transform and push to IPTV system.
+        - End to end setup from content aquisition and encoding to delivery.
+        - Develop Media automation tool to retrieve media from customer source, edit and deliver to it's destination.
 projects:
     title: Projects
     intro: >
